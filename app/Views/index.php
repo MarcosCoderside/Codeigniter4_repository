@@ -23,7 +23,13 @@
         
         <div class="row">
             <div class="col-8 mx-auto">
-               
+                <media class="media" style="margin-top:2rem;">
+                    <div style="background-color:#000; height:100px; width:100px;"></div>
+                    <div class="media-body">
+                        <p class="paragraph" style="padding-left:15px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <span class="text-muted" style="padding-left:15px;">22h</span>
+                    </div>
+                </media>
             </div>
         </div>
     </div>
