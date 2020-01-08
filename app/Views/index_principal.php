@@ -38,6 +38,7 @@
                 <h4 class="h4 text-center p-2">What is Lorem Ipsum?</h4>
                 <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            
             </div>    
         </div>
     </div>
