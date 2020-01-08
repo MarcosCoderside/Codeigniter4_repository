@@ -14,7 +14,31 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-8 mx-auto">
-            <div style="background-color:#FFF; height:100px;width:100px;margin-top:3rem;"></div>    
+            <div style="background-color:#FFF; height:auto;width:100%;margin-top:1.8rem;padding-bottom:8px;box-shadow:3px 3px 10px #FFF;">
+                <h4 class="h4 text-center p-2">What is Lorem Ipsum?</h4>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>    
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-8 mx-auto">
+        <div style="background-color:#FFF; height:auto;width:100%;margin-top:5rem;padding-bottom:8px;box-shadow:3px 3px 10px #FFF;">
+                <h4 class="h4 text-center p-2">What is Lorem Ipsum?</h4>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>    
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-8 mx-auto">
+        <div style="background-color:#FFF; height:auto;width:100%;margin-top:5rem;padding-bottom:8px;box-shadow:3px 3px 10px #FFF;">
+                <h4 class="h4 text-center p-2">What is Lorem Ipsum?</h4>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>    
         </div>
     </div>
 </div>
