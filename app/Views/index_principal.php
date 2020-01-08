@@ -41,6 +41,16 @@
             
             </div>    
         </div>
+
+        <div class="col-8 mx-auto">
+        <div style="background-color:#FFF; height:auto;width:100%;margin-top:5rem;padding-bottom:8px;box-shadow:3px 3px 10px #FFF;">
+                <h4 class="h4 text-center p-2">What is Lorem Ipsum?</h4>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p class="paragraph border border-solid m-2 pl-2 pr-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            
+            </div>    
+        </div>
+        
     </div>
 </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
