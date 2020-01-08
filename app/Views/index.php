@@ -12,11 +12,18 @@
   <body>
       
     <div class="container-fluid">
+        <nav class="nav bg-dark">
+            <li class="nav-item">
+                <a class="nav-link text-light" href="<?='link1.php'?>">Link 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="<?='link2.php'?>">Link 2</a>
+            </li>
+        </nav>
+        
         <div class="row">
             <div class="col-8 mx-auto">
-                <div class="header">
-                    teste
-                </div>
+               
             </div>
         </div>
     </div>
